@@ -1,6 +1,6 @@
-# Recommendation with IBM
+# Recommendation of Article with IBM Watson Studio datasets
 
-In this project,I Developed a recommendation engine based on user behavior and social network. Used Rank Based, User-User Based Collaborative Filtering and SVD Matrix Factorization to accomplish system
+In this project, I Developed a recommendation engine based on user behavior and social network. Used Rank Based, User-User Based Collaborative Filtering and SVD Matrix Factorization to accomplish system
 
 ## Contents
 
@@ -35,7 +35,7 @@ This project will be divided into the following tasks
 
 5. Matrix Factorization(user-item collaborative filtering with SVD without regularization) - Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using our decomposition, we will get an idea of how well we can predict new articles an individual might interact with (spoiler alert - it isn't great). We will finally discuss which methods we might use moving forward, and how we might test how well our recommendations are working for engaging users.
 
-6.Extras
+6. Extras
 
 <a name="files"></a>
 ## File Descriptions 
@@ -83,9 +83,6 @@ Thanks to **[Udacity](https://www.udacity.com/)** for editing and setting the pr
 Thanks to **[IBM Watson Studio](https://www.ibm.com/watson/)** for providing cool data with which we can create a cutting edge project.
 
 ---
-<p style="text-align: center;"><span style="font-size: 70px; color: #D7D1C9;">&#8912;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8913;</span><em></em></p>
-
-
 <a id="Conclusion"></a>
 ## Conclusion
 **It was instructive, it was worth it.** You could touch the code. Have a enjoy. **:)**
