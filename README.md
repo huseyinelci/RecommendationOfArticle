@@ -77,7 +77,7 @@ The **dataset** owner is [IBM Watson Studio](https://www.ibm.com/watson/) Also, 
 
 #### Authors
 Huseyin ELCI <br>
-[Github](https://github.com/huseyinelci2000)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)
+[Github](https://github.com/huseyinelci)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)
 #### Acknowledgements
 Thanks to **[IBM Watson Studio](https://www.ibm.com/watson/)** for providing cool data with which we can create a cutting edge project.
 
